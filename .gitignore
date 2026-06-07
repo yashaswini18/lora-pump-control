@@ -1,0 +1,57 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.msi
+*.zip
+*.tar.gz
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# Node (if any tooling)
+node_modules/
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Secrets / config with credentials
+secrets.json
+config.local.*
+
+# Firmware build output
+*.bin
+*.hex
+*.elf
+*.map
+
+# Exported logs (keep structure, not content)
+exports/
+logs/
