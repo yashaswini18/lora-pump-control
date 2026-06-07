@@ -1,4 +1,4 @@
-# docs/Hardware Setup Guide
+# Hardware Setup Guide
 
 > ⛔ **DANGER:** This device interfaces with 230V AC mains electricity. De-energise the circuit before making any wiring connections. Only qualified electricians should handle 230V wiring.
 
